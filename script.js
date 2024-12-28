@@ -24,6 +24,13 @@ function getDetails(id){
       divEle.insertAdjacentHTML('beforeend', card);
   }
 
-  getDetails(56);
+ getDetails(56);
+ getDetails(13);
+ getDetails(36);
+ getDetails(48);
+ getDetails(62);
+ getDetails(72);
+ getDetails(87);
+ getDetails(100);
 
   
